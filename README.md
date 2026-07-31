@@ -1,2 +1,2 @@
 # fredysidang
-program sidang fredy ganteng
+program sidang flutter untuk oximeter dan gsr
